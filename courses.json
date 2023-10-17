@@ -488,5 +488,35 @@
     "difficulty": "beginner",
     "module_number": 8,
     "certification": "paid"
+    },
+  {
+    "id": 62,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Data Science Projects with Python",
+    "link": "https://www.educative.io/courses/data-science-projects-with-python",
+    "difficulty": "beginner",
+    "module_number": 2,
+    "certification": "paid"
+  },
+  {
+    "id": 63,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Python 3: From Beginner to Advanced ",
+    "link": "https://www.educative.io/courses/python-3-beginner-advanced",
+    "difficulty": "beginner",
+    "module_number": 3,
+    "certification": "paid"
+  },
+  {
+    "id": 64,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Full Speed Python ",
+    "link": "https://www.educative.io/courses/full-speed-python",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "paid"
   }
 ]
